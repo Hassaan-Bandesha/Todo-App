@@ -1,0 +1,38 @@
+body{
+    background-color: hsl(0, 0%, 19%);
+}
+#centre{
+    text-align: center;
+
+}
+h1{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+#addbtn{
+    border-radius: 30px;
+    padding: 15px;
+    background-color: #9b0000;
+    color: white;
+}
+#todo{
+    border: 1px solid #000000;
+    border-radius: 30px;
+    padding: 15px;
+}
+ol{
+    color: #ffffff;
+    font-size: 30px;
+}
+#deletebtn{
+    border: 1px solid #000000;
+    border-radius: 30px;
+    padding: 7px 23px;
+    background-color: burlywood;
+}
+#editbtn{
+    border: 1px solid #000000;
+    border-radius: 30px;
+    padding: 7px 30px;
+    background-color: cadetblue;
+}
